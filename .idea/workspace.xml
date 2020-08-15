@@ -29,7 +29,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.Time Conversion">
+  <component name="RunManager" selected="Python.Ice Cream Parlor">
     <configuration name="Birthday Cake Candles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,7 +52,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Diagonal Difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ice Cream Parlor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,12 +60,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Search" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Diagonal Difference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search/Ice Cream Parlor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ice Cream Parlor" />
         <item itemvalue="Python.Time Conversion" />
         <item itemvalue="Python.Birthday Cake Candles" />
         <item itemvalue="Python.Staircase" />
         <item itemvalue="Python.Plus Minus" />
-        <item itemvalue="Python.Diagonal Difference" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597434628763</updated>
       <workItem from="1597434629853" duration="2631000" />
-      <workItem from="1597440957090" duration="2717000" />
+      <workItem from="1597440957090" duration="6119000" />
     </task>
     <servers />
   </component>
@@ -167,27 +167,28 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1597443535358">
+    <state width="1340" height="285" key="GridCell.Tab.0.bottom" timestamp="1597478836796">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597443535358" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1597443535358">
+    <state width="1340" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1597478836796" />
+    <state width="1340" height="285" key="GridCell.Tab.0.center" timestamp="1597478836796">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597443535358" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1597443535358">
+    <state width="1340" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1597478836796" />
+    <state width="1340" height="285" key="GridCell.Tab.0.left" timestamp="1597478836796">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597443535358" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1597443535358">
+    <state width="1340" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1597478836796" />
+    <state width="1340" height="285" key="GridCell.Tab.0.right" timestamp="1597478836796">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597443535358" />
+    <state width="1340" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1597478836796" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$Diagonal_Difference.coverage" NAME="Diagonal Difference Coverage Results" MODIFIED="1597436549315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HackerRank$Plus_Minus.coverage" NAME="Plus Minus Coverage Results" MODIFIED="1597441574369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HackerRank$Compare_the_Triplets.coverage" NAME="Compare the Triplets Coverage Results" MODIFIED="1597435836443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HackerRank$Ice_Cream_Parlor.coverage" NAME="Ice Cream Parlor Coverage Results" MODIFIED="1597478719643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Search" />
     <SUITE FILE_PATH="coverage/HackerRank$Birthday_Cake_Candles.coverage" NAME="Birthday Cake Candles Coverage Results" MODIFIED="1597442710440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HackerRank$Staircase.coverage" NAME="Staircase Coverage Results" MODIFIED="1597441895159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HackerRank$Time_Conversion.coverage" NAME="Time Conversion Coverage Results" MODIFIED="1597443535351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
