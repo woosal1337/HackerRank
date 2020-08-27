@@ -20,9 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54852512-81f4-41ce-9a68-d9b68a3cc7f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Angry Professor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/The Hurdle Race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implementation/Designer PDF Viewer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +51,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodeWars" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -194,7 +191,9 @@
       <workItem from="1597440957090" duration="6119000" />
       <workItem from="1598211270184" duration="2708000" />
       <workItem from="1598280829779" duration="316000" />
-      <workItem from="1598284730929" duration="20049000" />
+      <workItem from="1598284730929" duration="20480000" />
+      <workItem from="1598379318813" duration="784000" />
+      <workItem from="1598392429094" duration="11000" />
     </task>
     <servers />
   </component>
@@ -214,22 +213,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1477" height="266" key="GridCell.Tab.0.bottom" timestamp="1598364926095">
+    <state x="757" y="304" key="FileChooserDialogImpl" timestamp="1598392438805">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1477" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598364926095" />
-    <state width="1477" height="266" key="GridCell.Tab.0.center" timestamp="1598364926095">
+    <state x="757" y="304" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1598392438805" />
+    <state width="1477" height="266" key="GridCell.Tab.0.bottom" timestamp="1598365386596">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1477" height="266" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598364926095" />
-    <state width="1477" height="266" key="GridCell.Tab.0.left" timestamp="1598364926095">
+    <state width="1477" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598365386596" />
+    <state width="1477" height="266" key="GridCell.Tab.0.center" timestamp="1598365386595">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1477" height="266" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598364926095" />
-    <state width="1477" height="266" key="GridCell.Tab.0.right" timestamp="1598364926095">
+    <state width="1477" height="266" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598365386595" />
+    <state width="1477" height="266" key="GridCell.Tab.0.left" timestamp="1598365386595">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1477" height="266" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598364926095" />
+    <state width="1477" height="266" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598365386595" />
+    <state width="1477" height="266" key="GridCell.Tab.0.right" timestamp="1598365386596">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1477" height="266" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598365386596" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$Designer_PDF_Viewer.coverage" NAME="Designer PDF Viewer Coverage Results" MODIFIED="1598360877471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Implementation" />
