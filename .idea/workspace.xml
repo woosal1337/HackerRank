@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54852512-81f4-41ce-9a68-d9b68a3cc7f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Camelcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Strong Password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Strong Password.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Strong Password.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.Camelcase">
+  <component name="RunManager" selected="Python.Test">
     <configuration name="Angry Professor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sock Merchant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRank" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Implementation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithms" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Implementation/Sock Merchant.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithms/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Camelcase" />
         <item itemvalue="Python.Angry Professor" />
         <item itemvalue="Python.builtins" />
         <item itemvalue="Python.Designer PDF Viewer" />
-        <item itemvalue="Python.Sock Merchant" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +196,7 @@
       <workItem from="1598284730929" duration="20480000" />
       <workItem from="1598379318813" duration="784000" />
       <workItem from="1598392429094" duration="11000" />
-      <workItem from="1598604764717" duration="2238000" />
+      <workItem from="1598604764717" duration="5307000" />
     </task>
     <servers />
   </component>
@@ -220,26 +220,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="757" y="304" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1598392438805" />
-    <state width="1477" height="253" key="GridCell.Tab.0.bottom" timestamp="1598606645078">
+    <state width="1477" height="179" key="GridCell.Tab.0.bottom" timestamp="1598614648619">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1477" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1598365386596" />
-    <state width="1477" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598606645078" />
-    <state width="1477" height="253" key="GridCell.Tab.0.center" timestamp="1598606645078">
+    <state width="1477" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598614648619" />
+    <state width="1477" height="179" key="GridCell.Tab.0.center" timestamp="1598614648619">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1477" height="266" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1598365386595" />
-    <state width="1477" height="253" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598606645078" />
-    <state width="1477" height="253" key="GridCell.Tab.0.left" timestamp="1598606645078">
+    <state width="1477" height="179" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598614648619" />
+    <state width="1477" height="179" key="GridCell.Tab.0.left" timestamp="1598614648618">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1477" height="266" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1598365386595" />
-    <state width="1477" height="253" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598606645078" />
-    <state width="1477" height="253" key="GridCell.Tab.0.right" timestamp="1598606645078">
+    <state width="1477" height="179" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598614648618" />
+    <state width="1477" height="179" key="GridCell.Tab.0.right" timestamp="1598614648619">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1477" height="266" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1598365386596" />
-    <state width="1477" height="253" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598606645078" />
+    <state width="1477" height="179" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598614648619" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRank$Designer_PDF_Viewer.coverage" NAME="Designer PDF Viewer Coverage Results" MODIFIED="1598360877471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Implementation" />
@@ -248,6 +248,7 @@
     <SUITE FILE_PATH="coverage/HackerRank$builtins.coverage" NAME="builtins Coverage Results" MODIFIED="1598364835825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.1/python_stubs/2027920081" />
     <SUITE FILE_PATH="coverage/HackerRank$Compare_the_Triplets.coverage" NAME="Compare the Triplets Coverage Results" MODIFIED="1597435836443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HackerRank$Bon_Appétit.coverage" NAME="Bon Appétit Coverage Results" MODIFIED="1598355058699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Implementation" />
+    <SUITE FILE_PATH="coverage/HackerRank$Test.coverage" NAME="Test Coverage Results" MODIFIED="1598614648611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithms" />
     <SUITE FILE_PATH="coverage/HackerRank$Time_Conversion.coverage" NAME="Time Conversion Coverage Results" MODIFIED="1597443535351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HackerRank$Grading_Students.coverage" NAME="Grading Students Coverage Results" MODIFIED="1598344468739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Implementation" />
     <SUITE FILE_PATH="coverage/HackerRank$Diagonal_Difference.coverage" NAME="Diagonal Difference Coverage Results" MODIFIED="1597436549315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
