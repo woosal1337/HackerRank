@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54852512-81f4-41ce-9a68-d9b68a3cc7f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Bon Appetit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HackerRank.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Implementation/Between Two Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Implementation/Between Two Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Breaking the Records.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +195,7 @@
       <workItem from="1598379318813" duration="784000" />
       <workItem from="1598392429094" duration="11000" />
       <workItem from="1598604764717" duration="5307000" />
-      <workItem from="1598692628449" duration="1132000" />
+      <workItem from="1598692628449" duration="1563000" />
     </task>
     <servers />
   </component>
