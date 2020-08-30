@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54852512-81f4-41ce-9a68-d9b68a3cc7f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Implementation/Cats and a mouse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +195,8 @@
       <workItem from="1598379318813" duration="784000" />
       <workItem from="1598392429094" duration="11000" />
       <workItem from="1598604764717" duration="5307000" />
-      <workItem from="1598692628449" duration="3565000" />
+      <workItem from="1598692628449" duration="4069000" />
+      <workItem from="1598720397478" duration="1042000" />
     </task>
     <servers />
   </component>
