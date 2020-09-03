@@ -6,6 +6,7 @@ import random
 import re
 import sys
 
+
 # Complete the angryProfessor function below.
 def angryProfessor(k, a):
     onTime = 0
